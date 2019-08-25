@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="display-control2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/display_control2_jar</output-path>
+    <root id="archive" name="display-control2.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="display-control2" />
+      <element id="extracted-dir" path="E:/Program Files/ChromeDownload/jfreechart-1.0.19/lib/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Program Files/ChromeDownload/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Program Files/ChromeDownload/substance-4.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
